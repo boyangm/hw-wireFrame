@@ -31,17 +31,17 @@ aside {
 #main{
     float: left;
     width: 495px;
-    height: 350px;
+    height: 285px;
 }
 aside{
     float: right;
     width: 450px;
-    height: 350px;
+    height: 285px;
     margin-left: 0;
 }
 .content{
     width: 100%;
-    height: 385px;
+    height: 300px;
 
 }
 
@@ -53,10 +53,8 @@ aside{
 #article {
     color: #ebebeb;
     background: #777;
-    position: absolute;
-    bottom: 136px;
     height: 200px;
-    left: 35px;
+    margin: 0 auto;
     width: 450px;
 }
 #title{
